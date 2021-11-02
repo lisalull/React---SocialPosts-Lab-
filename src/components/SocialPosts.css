@@ -1,0 +1,23 @@
+.SocialPosts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.SocialPosts .new-thought {
+  background-color: #03a9f4;
+  color: white;
+  font-family: "Dosis", sans-serif;
+  font-weight: bolder;
+  border-radius: 5px;
+  padding: 5px;
+  width: 75%;
+}
+
+.SocialPosts .post-container {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 75%;
+}

@@ -1,0 +1,11 @@
+.PostInList {
+  box-shadow: 0px 0px 1px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fa-trash {
+  padding: 5px;
+}
